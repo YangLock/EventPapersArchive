@@ -16,12 +16,16 @@
 ### 事件时序关系抽取
 | 年份 | 来源 | 名称 | 源码 | 数据集 |
 | :-----: | :-----:| :-----:| :-----: | :-----: |
-| 年份 | 来源 | 名称 | 源码 | 数据集 |
+| 2021 | IJCNLP | [TIMERS: Document-level Temporal Relation Extraction](https://aclanthology.org/2021.acl-short.67.pdf) |  |  |
+| 2021 | [计算机研究与发展](https://crad.ict.ac.cn/) | [融合上下文信息的篇章级事件时序关系抽取方法](https://crad.ict.ac.cn/CN/abstract/abstract4529.shtml) |  |  |
+| 2019 | ACL | [Fine-Grained Temporal Relation Extraction](https://aclanthology.org/P19-1280.pdf) | [decomp](http://decomp.io/projects/time/) | [decomp](http://decomp.io/projects/time/) |
 
 ### 事件父子关系抽取
 | 年份 | 来源 | 名称 | 源码 | 数据集 |
 | :-----: | :-----:| :-----:| :-----: | :-----: |
-| 年份 | 来源 | 名称 | 源码 | 数据集 |
+| 2022 | TACL | [Decomposing and Recomposing Event Structure](https://aclanthology.org/2022.tacl-1.2.pdf) | [decomp](http://decomp.io/projects/event-structure/) | [decomp](http://decomp.io/projects/event-structure/) |
+| 2021 | EMNLP | [Learning Constraints and Descriptive Segmentation for Subevent Detection](https://aclanthology.org/2021.emnlp-main.423.pdf) | [CogComp/Subevent_EventSeg](https://github.com/CogComp/Subevent_EventSeg) | [HiEve](https://github.com/CogComp/Subevent_EventSeg/tree/main/hievents_v2) and [IC](https://github.com/CogComp/Subevent_EventSeg/tree/main/IC) |
+| 2021 | EMNLP | [Weakly Supervised Subevent Knowledge Acquisition](https://aclanthology.org/2020.emnlp-main.430.pdf) | [SubeventAcquisition](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition) | [RED, ESC, HiEve, Timebank]([EMNLP20-SubeventAcquisition/datasets at master · wenlinyao/EMNLP20-SubeventAcquisition (github.com)](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition/tree/master/datasets)) and [RED]([Richer Event Description - Linguistic Data Consortium (upenn.edu)](https://catalog.ldc.upenn.edu/LDC2016T23)) |
 ## 事件抽取
 
 ### 中文（句子）事件抽取
@@ -50,15 +54,15 @@
 ### 相关文献
 | 年份 | 来源 | 名称 | 源码 | 数据集 |
 | :-----: | :-----:| :-----:| :-----: | :-----: |
-| 2021 | 来源 | [A Survey on Event Extraction for Natural Language Understanding: Riding the Biomedical Literature Wave](https://ieeexplore.ieee.org/document/9627684) | 源码 | 数据集 |
-| 2021 | 来源 | [Survey on social event detection](https://ieeexplore.ieee.org/document/9750511) | 源码 | 数据集 |
-| 年份 | 来源 | [Deep Learning Approaches to Detect Real Time Events Recognition in Smart Manufacturing Systems – A Short Survey](https://link.springer.com/chapter/10.1007/978-3-030-84910-8_20) | 源码 | 数据集 |
-| 2021 |  TKDE 2022 | [What is Event Knowledge Graph: A Survey](https://arxiv.org/abs/2112.15280) | 源码 | 数据集 |
+| 2021 | IEEE Access | [A Survey on Event Extraction for Natural Language Understanding: Riding the Biomedical Literature Wave](https://ieeexplore.ieee.org/document/9627684) |  |  |
+| 2021 | IEEE DSC | [Survey on social event detection](https://ieeexplore.ieee.org/document/9750511) |  |  |
+| 2021 | [LNNS](https://link.springer.com/bookseries/15179) | [Deep Learning Approaches to Detect Real Time Events Recognition in Smart Manufacturing Systems – A Short Survey](https://link.springer.com/chapter/10.1007/978-3-030-84910-8_20) |  |  |
+| 2021 |  TKDE 2022 | [What is Event Knowledge Graph: A Survey](https://arxiv.org/abs/2112.15280) |  |  |
 | 2020 | AI Open | [Extracting Events and Their Relations from Texts: A Survey on Recent Research Progress and Challenges](https://www.sciencedirect.com/science/article/pii/S266665102100005X?via%3Dihub) |  |  |
-| 2020 |  | [A survey on multi-modal social event detection](https://www.sciencedirect.com/science/article/pii/S0950705120301271?via%3Dihub) |  |  |
+| 2020 | [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) | [A survey on multi-modal social event detection](https://www.sciencedirect.com/science/article/pii/S0950705120301271?via%3Dihub) |  |  |
 | 2020 | CCKS | [A Survey on Event Relation Identification](https://link.springer.com/chapter/10.1007/978-981-16-1964-9_14) |  |  |
-| 2019 | IE3 Access | [A Survey of Event Extraction From Text](https://ieeexplore.ieee.org/document/8918013) |  |  |
+| 2019 | IEEE Access | [A Survey of Event Extraction From Text](https://ieeexplore.ieee.org/document/8918013) |  |  |
 | 2019 | 计算机科学 | [元事件抽取研究综述](https://www.jsjkx.com/CN/10.11896/j.issn.1002-137X.2019.08.002) |  |  |
 | 2019 | ACM Trans | [How Deep Features Have Improved Event Recognition in Multimedia: A Survey](https://dl.acm.org/doi/10.1145/3306240) |  |  |
-|  | IJCAI | [Event **Coreference Resolution: A** Survey **of Two Decades of Research**](https://www.ijcai.org/proceedings/2018/773) |  |  |
+| 2018 | IJCAI | [Event Coreference Resolution: A Survey of Two Decades of Research](https://www.ijcai.org/proceedings/2018/773) |  |  |
 
