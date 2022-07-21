@@ -1,3 +1,5 @@
+[TOC]
+
 # 事件抽取与事件关系抽取论文整理
 
 ## 事件关系抽取
@@ -51,13 +53,14 @@
 | 2019 | ACL  | [Open Domain Event Extraction Using Neural Latent Variable Models](https://aclanthology.org/P19-1276/) | [Code](https://github.com/lx865712528/ACL2019-ODEE) | [Data](https://drive.google.com/file/d/1KjL3mAxj9nmzqC75s2rNaT6x6CJBZZTj/view) |
 | 2022 | TOIS | [A Multi-Channel Hierarchical Graph Attention Network for Open Event Extraction](https://dl.acm.org/doi/10.1145/3528668) |     [Code](https://github.com/hawisdom/DL-OEE)      |                     CoNLL-2009 & ACE2005                     |
 
-### 相关文献
+## 扩展阅读
+
 | 年份 | 来源 | 名称 | 源码 | 数据集 |
 | :-----: | :-----:| :-----:| :-----: | :-----: |
 | 2021 | IEEE Access | [A Survey on Event Extraction for Natural Language Understanding: Riding the Biomedical Literature Wave](https://ieeexplore.ieee.org/document/9627684) |  |  |
 | 2021 | IEEE DSC | [Survey on social event detection](https://ieeexplore.ieee.org/document/9750511) |  |  |
 | 2021 | [LNNS](https://link.springer.com/bookseries/15179) | [Deep Learning Approaches to Detect Real Time Events Recognition in Smart Manufacturing Systems – A Short Survey](https://link.springer.com/chapter/10.1007/978-3-030-84910-8_20) |  |  |
-| 2021 |  TKDE 2022 | [What is Event Knowledge Graph: A Survey](https://arxiv.org/abs/2112.15280) |  |  |
+| 2021 |  TKDE 2022 | [**What is Event Knowledge Graph: A Survey**](https://arxiv.org/abs/2112.15280) |  |  |
 | 2020 | AI Open | [Extracting Events and Their Relations from Texts: A Survey on Recent Research Progress and Challenges](https://www.sciencedirect.com/science/article/pii/S266665102100005X?via%3Dihub) |  |  |
 | 2020 | [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) | [A survey on multi-modal social event detection](https://www.sciencedirect.com/science/article/pii/S0950705120301271?via%3Dihub) |  |  |
 | 2020 | CCKS | [A Survey on Event Relation Identification](https://link.springer.com/chapter/10.1007/978-981-16-1964-9_14) |  |  |
@@ -65,4 +68,14 @@
 | 2019 | 计算机科学 | [元事件抽取研究综述](https://www.jsjkx.com/CN/10.11896/j.issn.1002-137X.2019.08.002) |  |  |
 | 2019 | ACM Trans | [How Deep Features Have Improved Event Recognition in Multimedia: A Survey](https://dl.acm.org/doi/10.1145/3306240) |  |  |
 | 2018 | IJCAI | [Event Coreference Resolution: A Survey of Two Decades of Research](https://www.ijcai.org/proceedings/2018/773) |  |  |
+|  |  | [Reviews on Event Knowledge Graph Construction Techniques and Application-ReadPaper](https://readpaper.com/paper/623485299804831744) | | |
+| 2021 |  | [Event Relation Reasoning Based on Event Knowledge Graph-ReadPaper](https://readpaper.com/paper/3197259738) | | |
+| 2020 |  | [Introduction: What Is a Knowledge Graph?-ReadPaper](https://readpaper.com/paper/3004035003) | | |
+| 2021 |  | [OEKG - The Open Event Knowledge Graph-ReadPaper](https://readpaper.com/paper/3159675306) | | |
 
+## 搜索工具
+
+- [dblp: computer science bibliography](https://dblp.org/)
+
+- [arXiv.org e-Print archive](https://arxiv.org/)
+- [Sci-Hub](https://sci-hub.se/)
