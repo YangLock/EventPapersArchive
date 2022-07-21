@@ -27,7 +27,7 @@
 | :-----: | :-----:| :-----:| :-----: | :-----: |
 | 2022 | TACL | [Decomposing and Recomposing Event Structure](https://aclanthology.org/2022.tacl-1.2.pdf) | [decomp](http://decomp.io/projects/event-structure/) | [decomp](http://decomp.io/projects/event-structure/) |
 | 2021 | EMNLP | [Learning Constraints and Descriptive Segmentation for Subevent Detection](https://aclanthology.org/2021.emnlp-main.423.pdf) | [CogComp/Subevent_EventSeg](https://github.com/CogComp/Subevent_EventSeg) | [HiEve](https://github.com/CogComp/Subevent_EventSeg/tree/main/hievents_v2) and [IC](https://github.com/CogComp/Subevent_EventSeg/tree/main/IC) |
-| 2021 | EMNLP | [Weakly Supervised Subevent Knowledge Acquisition](https://aclanthology.org/2020.emnlp-main.430.pdf) | [SubeventAcquisition](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition) | [RED, ESC, HiEve, Timebank]([EMNLP20-SubeventAcquisition/datasets at master · wenlinyao/EMNLP20-SubeventAcquisition (github.com)](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition/tree/master/datasets)) and [RED]([Richer Event Description - Linguistic Data Consortium (upenn.edu)](https://catalog.ldc.upenn.edu/LDC2016T23)) |
+| 2021 | EMNLP | [Weakly Supervised Subevent Knowledge Acquisition](https://aclanthology.org/2020.emnlp-main.430.pdf) | [SubeventAcquisition](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition) | [RED, ESC, HiEve, Timebank](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition/tree/master/datasets) and [RED](https://catalog.ldc.upenn.edu/LDC2016T23) |
 ## 事件抽取
 
 ### 中文（句子）事件抽取
