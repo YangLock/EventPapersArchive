@@ -26,8 +26,9 @@
 | 年份 | 来源 | 名称 | 源码 | 数据集 |
 | :-----: | :-----:| :-----:| :-----: | :-----: |
 | 2022 | TACL | [Decomposing and Recomposing Event Structure](https://aclanthology.org/2022.tacl-1.2.pdf) | [decomp](http://decomp.io/projects/event-structure/) | [decomp](http://decomp.io/projects/event-structure/) |
-| 2021 | EMNLP | [Learning Constraints and Descriptive Segmentation for Subevent Detection](https://aclanthology.org/2021.emnlp-main.423.pdf) | [CogComp/Subevent_EventSeg](https://github.com/CogComp/Subevent_EventSeg) | [HiEve](https://github.com/CogComp/Subevent_EventSeg/tree/main/hievents_v2) and [IC](https://github.com/CogComp/Subevent_EventSeg/tree/main/IC) |
+| 2021 | EMNLP | [Learning Constraints and Descriptive Segmentation for Subevent Detection](https://cogcomp.seas.upenn.edu/page/publication_view/950) | [CogComp/Subevent_EventSeg](https://github.com/CogComp/Subevent_EventSeg) | [HiEve](https://github.com/CogComp/Subevent_EventSeg/tree/main/hievents_v2) and [IC](https://github.com/CogComp/Subevent_EventSeg/tree/main/IC) |
 | 2021 | EMNLP | [Weakly Supervised Subevent Knowledge Acquisition](https://aclanthology.org/2020.emnlp-main.430.pdf) | [SubeventAcquisition](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition) | [RED, ESC, HiEve, Timebank](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition/tree/master/datasets) and [RED](https://catalog.ldc.upenn.edu/LDC2016T23) |
+| 2020 | EMNLP | [Joint Constrained Learning for Event-Event Relation Extraction](https://cogcomp.seas.upenn.edu/page/publication_view/914) | [CogComp/JointConstrainedLearning](https://github.com/CogComp/JointConstrainedLearning) | [MATRES](https://github.com/why2011btv/JointConstrainedLearning/tree/master/MATRES) and [HiEve](https://github.com/why2011btv/JointConstrainedLearning/tree/master/hievents_v2) |
 ## 事件抽取
 
 ### 中文（句子）事件抽取
