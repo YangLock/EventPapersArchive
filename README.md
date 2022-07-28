@@ -71,16 +71,16 @@
 | 2019 | 计算机科学 | [元事件抽取研究综述](https://www.jsjkx.com/CN/10.11896/j.issn.1002-137X.2019.08.002) |  |  |
 | 2019 | ACM Trans | [How Deep Features Have Improved Event Recognition in Multimedia: A Survey](https://dl.acm.org/doi/10.1145/3306240) |  |  |
 | 2018 | IJCAI | [Event Coreference Resolution: A Survey of Two Decades of Research](https://www.ijcai.org/proceedings/2018/773) |  |  |
-|  |  | [Reviews on Event Knowledge Graph Construction Techniques and Application-ReadPaper](https://readpaper.com/paper/623485299804831744) | | |
-| 2021 |  | [Event Relation Reasoning Based on Event Knowledge Graph-ReadPaper](https://readpaper.com/paper/3197259738) | | |
-| 2020 |  | [Introduction: What Is a Knowledge Graph?-ReadPaper](https://readpaper.com/paper/3004035003) | | |
-| 2021 |  | [OEKG - The Open Event Knowledge Graph-ReadPaper](https://readpaper.com/paper/3159675306) | | |
+| 2020 |  | [Reviews on Event Knowledge Graph Construction Techniques and Application-ReadPaper](http://www.c-a-m.org.cn/EN/10.3969/j.issn.1006-2475.2020.01.003) | | |
+| 2021 | KSEM | [Event Relation Reasoning Based on Event Knowledge Graph](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_40) | | |
+| 2020 |  | [Introduction: What Is a Knowledge Graph?](https://link.springer.com/content/pdf/10.1007%2F978-3-030-37439-6_1.pdf) | | |
+| 2021 |  | [OEKG - The Open Event Knowledge Graph](http://ceur-ws.org/Vol-2829/paper5.pdf) | | |
 | 2021 | CCKS | [MEED: A Multimodal Event Extraction Dataset](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_23) |      | |
 
-## 搜索工具
+## 一些工具
 
 - [dblp: computer science bibliography](https://dblp.org/)
 - [arXiv.org e-Print archive](https://arxiv.org/)
 - [Sci-Hub](https://sci-hub.se/)
 - [ReadPaper](https://readpaper.com/)
-
+- [zotero](https://www.zotero.org/)
