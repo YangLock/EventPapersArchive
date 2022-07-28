@@ -75,10 +75,12 @@
 | 2021 |  | [Event Relation Reasoning Based on Event Knowledge Graph-ReadPaper](https://readpaper.com/paper/3197259738) | | |
 | 2020 |  | [Introduction: What Is a Knowledge Graph?-ReadPaper](https://readpaper.com/paper/3004035003) | | |
 | 2021 |  | [OEKG - The Open Event Knowledge Graph-ReadPaper](https://readpaper.com/paper/3159675306) | | |
+| 2021 | CCKS | [MEED: A Multimodal Event Extraction Dataset](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_23) |      | |
 
 ## 搜索工具
 
 - [dblp: computer science bibliography](https://dblp.org/)
-
 - [arXiv.org e-Print archive](https://arxiv.org/)
 - [Sci-Hub](https://sci-hub.se/)
+- [ReadPaper](https://readpaper.com/)
+
