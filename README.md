@@ -17,11 +17,12 @@
 | 2021 | EACL | [Automatic Data Acquisition for Event Coreference Resolution](https://aclanthology.org/2021.eacl-main.101/) | [Code](https://github.com/prafulla77/Event-Coref-EACL-2021) | [Data](https://drive.google.com/drive/folders/1NNBKiO4eYkGBjkdXGUieKg2fCWfbUBuf) |
 | 2021 | NAACL | [A Context-Dependent Gated Module for Incorporating Symbolic Semantics into Event Coreference Resolution](http://arxiv.org/abs/2104.01697) | [Code](https://github.com/laituan245/eventcoref) | ACE 2005&KBP 2016 |
 ### 事件时序关系抽取
-| 年份 | 来源 | 名称 | 源码 | 数据集 |
-| :-----: | :-----:| :-----:| :-----: | :-----: |
+| 年份 | 来源 | 名称 | 源码 | 数据集 | 描述 |
+| :-----: | :-----:| :-----:| :-----: | :-----: | :-----: |
 | 2021 | IJCNLP | [TIMERS: Document-level Temporal Relation Extraction](https://aclanthology.org/2021.acl-short.67.pdf) |  |  |
 | 2021 | [计算机研究与发展](https://crad.ict.ac.cn/) | [融合上下文信息的篇章级事件时序关系抽取方法](https://crad.ict.ac.cn/CN/abstract/abstract4529.shtml) |  |  |
 | 2019 | ACL | [Fine-Grained Temporal Relation Extraction](https://aclanthology.org/P19-1280.pdf) | [decomp](http://decomp.io/projects/time/) | [decomp](http://decomp.io/projects/time/) |
+| 2018 |  | [TEMPROB: Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource-ReadPaper](https://readpaper.com/paper/2797731290) |  |  |  provides prior knowledge of the temporal order that some events usually follow.|
 
 ### 事件父子关系抽取
 | 年份 | 来源 | 名称 | 源码 | 数据集 |
@@ -55,6 +56,13 @@
 | :--: | :--: | :----------------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------------: |
 | 2019 | ACL  | [Open Domain Event Extraction Using Neural Latent Variable Models](https://aclanthology.org/P19-1276/) | [Code](https://github.com/lx865712528/ACL2019-ODEE) | [Data](https://drive.google.com/file/d/1KjL3mAxj9nmzqC75s2rNaT6x6CJBZZTj/view) |
 | 2022 | TOIS | [A Multi-Channel Hierarchical Graph Attention Network for Open Event Extraction](https://dl.acm.org/doi/10.1145/3528668) |     [Code](https://github.com/hawisdom/DL-OEE)      |                     CoNLL-2009 & ACE2005                     |
+
+## 基础阅读
+| 年份 | 来源 | 名称 | 源码 | 数据集 |
+| :-----: | :-----:| :-----:| :-----: | :-----: |
+| 2019 |  | [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) |  |  |
+| 2018 | | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://readpaper.com/paper/2963341956) | | |
+| 2017 | | [Attention is All you Need](https://readpaper.com/paper/2963403868) | | |
 
 ## 扩展阅读
 
@@ -92,3 +100,13 @@
 + Distill上的两篇相关技术博客
     + [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)  P.S. 这篇博客就是李沐那个视频里讲的博客
     + [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
+
+## 数据集
+|数据集名称| 年份 | 来源 | 论文名称 | 描述 | 下载 |
+| :-----: | :-----: | :-----:| :-----:| :-----:| :-----:|
+| ConceptNet | 2017 | | [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://readpaper.com/paper/2561529111) |a large-scale commonsense knowledge graph for commonsense concepts, entities, events and relations||
+| MATRES | 2018 | | [A Multi-Axis Annotation Scheme for Event Temporal Relations]([A Multi-Axis Annotation Scheme for Event Temporal Relations-ReadPaper](https://readpaper.com/paper/2798602728)) |a new benchmark dataset for TempRel extraction, which is developed from TempEval3 (UzZaman et al., 2013). It annotates on top of 275 documents with TempRels BEFORE, AFTER, EQUAL, and VAGUE. Particularly, the annotation process of MATRES has defined four axes for the actions of events, i.e. main, intention, opinion, andhypothetical axes. The TempRels are considered for all event pairs on the same axis and within a context of two adjacent sentences. The labels are decided by comparing the starting points of the events. The multi-axis annotation helped MATRES to achieve a high IAA of 0.84 in Cohen's Kappa.||
+| HiEve |  | |  |a news corpus that contains 100 articles. Within each article, annotations are given for both subevent and coreference relations. The HiEve adopted the IAA measurement proposed for TempRels by (UzZaman and Allen, 2011), resulting in 0.69 F1.||
+| TempEval3 | 2013 | | [Evaluating Time Expressions, Events, and Temporal Relations](https://aclanthology.org/S13-2001.pdf) |||
+| RED | 2016 | | [Richer Event Description: Integrating event coreference with temporal, causal and bridging annotation]([Richer Event Description: Integrating event coreference with temporal, causal and bridging annotation-ReadPaper](https://readpaper.com/paper/2561222820)) |contains 35 news articles with annotations for event complexes that contain both membership relations and TempRels.||
+
