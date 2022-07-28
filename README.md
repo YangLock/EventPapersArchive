@@ -84,3 +84,11 @@
 - [Sci-Hub](https://sci-hub.se/)
 - [ReadPaper](https://readpaper.com/)
 - [zotero](https://www.zotero.org/)
+
+## GNN相关知识
++ B站课程：
+    + [李沐的零基础多图详解图神经网络](https://www.bilibili.com/video/BV1iT4y1d7zP?spm_id_from=333.880.my_history.page.click&vd_source=137a8d9e49a8aecb804950139f2cd561)
+    + [图卷积神经网络（GCN）的数学原理详解](https://www.bilibili.com/video/BV1Vw411R7Fj?p=1&vd_source=137a8d9e49a8aecb804950139f2cd561)
++ Distill上的两篇相关技术博客
+    + [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)  P.S. 这篇博客就是李沐那个视频里讲的博客
+    + [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
