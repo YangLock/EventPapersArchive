@@ -9,6 +9,7 @@
 | :-----: | :-----:| :-----:| :-----: | :-----: |
 | 2020 | COLING |[KnowDis: Knowledge Enhanced Data Augmentation for Event Causality Detection via Distant Supervision](https://www.aclweb.org/anthology/2020.coling-main.135)||[COPA](https://people.ict.usc.edu/~gordon/copa.html)|
 | 2020 | IJCAI | [Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations](https://www.ijcai.org/proceedings/2020/499) | [Code](https://github.com/jianliu-ml/EventCausalityIdentification) ||
+| 2022 | SIGIR | [Towards Event-level Causal Relation Identification](https://doi.org/10.1145/3477495.3531758) | [Code](https://github.com/HITSZ-HLT/Graph4ECI) | [EventStoryLine](https://github.com/tommasoc80/EventStoryLine) |
 ### 事件共指关系抽取
 | 年份 | 来源 | 名称 | 源码 | 数据集 |
 | :-----: | :-----:| :-----:| :-----: | :-----: |
