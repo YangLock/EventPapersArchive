@@ -58,6 +58,8 @@
 
 ## 扩展阅读
 
+### 综述
+
 | 年份 | 来源 | 名称 | 源码 | 数据集 |
 | :-----: | :-----:| :-----:| :-----: | :-----: |
 | 2021 | IEEE Access | [A Survey on Event Extraction for Natural Language Understanding: Riding the Biomedical Literature Wave](https://ieeexplore.ieee.org/document/9627684) |  |  |
@@ -76,6 +78,14 @@
 | 2020 |  | [Introduction: What Is a Knowledge Graph?](https://link.springer.com/content/pdf/10.1007%2F978-3-030-37439-6_1.pdf) | | |
 | 2021 |  | [OEKG - The Open Event Knowledge Graph](http://ceur-ws.org/Vol-2829/paper5.pdf) | | |
 | 2021 | CCKS | [MEED: A Multimodal Event Extraction Dataset](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_23) |      | |
+
+### 事理图谱
+
+| 年份 |         来源         |                             名称                             | 源码 | 数据集 |
+| :--: | :------------------: | :----------------------------------------------------------: | :--: | :----: |
+| 2020 | 计算机与现代化(CNKI) | [事件知识图谱构建技术与应用综述](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JYXH202001005&uniplatform=NZKPT&v=R-yruosM4vT_LhO2b-Qn2PzbUY-rgOez3a94GSCtf17lec6pZdk5UoP-I70xfYcc) |      |        |
+| 2021 |  大数据（中文期刊）  | [事件图谱的构建、推理与应用 ](http://www.infocomm-journal.com/bdr/CN/abstract/abstract171352.shtml) |      |        |
+| 2022 |         ACL          | [MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities](https://aclanthology.org/2022.acl-demo.23/) |      |        |
 
 ## 一些工具
 
