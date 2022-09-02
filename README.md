@@ -61,6 +61,7 @@
 | 年份 | 来源 | 名称 | 源码 | 数据集 |
 | :-----: | :-----:| :-----:| :-----: | :-----: |
 | 2019 |  | [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) |  |  |
+| 2019 | | ELG: An Event Logic Graph(提出事理图谱) | | |
 | 2018 | | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://readpaper.com/paper/2963341956) | | |
 | 2017 | | [Attention is All you Need](https://readpaper.com/paper/2963403868) | | |
 
@@ -84,7 +85,7 @@
 | 2020 |  | [Reviews on Event Knowledge Graph Construction Techniques and Application-ReadPaper](http://www.c-a-m.org.cn/EN/10.3969/j.issn.1006-2475.2020.01.003) | | |
 | 2021 | KSEM | [Event Relation Reasoning Based on Event Knowledge Graph](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_40) | | |
 | 2020 |  | [Introduction: What Is a Knowledge Graph?](https://link.springer.com/content/pdf/10.1007%2F978-3-030-37439-6_1.pdf) | | |
-| 2021 |  | [OEKG - The Open Event Knowledge Graph](http://ceur-ws.org/Vol-2829/paper5.pdf) | | |
+| 2021 |  | [OEKG - The Open Event Knowledge Graph](http://ceur-ws.org/Vol-2829/paper5.pdf) | | [Data](https://oekg.l3s.uni-hannover.de/data) |
 | 2021 | CCKS | [MEED: A Multimodal Event Extraction Dataset](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_23) |      | |
 
 ### 事理图谱
@@ -94,6 +95,7 @@
 |   2020    | 计算机与现代化(CNKI) | [事件知识图谱构建技术与应用综述](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JYXH202001005&uniplatform=NZKPT&v=R-yruosM4vT_LhO2b-Qn2PzbUY-rgOez3a94GSCtf17lec6pZdk5UoP-I70xfYcc) |                                                              |        |
 |   2021    |  大数据（中文期刊）  | [事件图谱的构建、推理与应用 ](http://www.infocomm-journal.com/bdr/CN/abstract/abstract171352.shtml) |                                                              |        |
 |   2022    |         ACL          | [MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities](https://aclanthology.org/2022.acl-demo.23/) |                                                              |        |
+|   2020    |        哈工大        | [面向金融领域的事理图谱构建关键技术研究](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1020400011.nh&uniplatform=OVERSEA&v=t3vgLCmLnsHff3yx2H7k3wqmMvALzLmpG1StrbVB5HTy-h9T3hKVRrU_3q67BlFd) |                                                              |        |
 | 2018-2021 |        IJCAI         | [SGNN 哈工大刘挺的博士 面向文本事件预测的事理图谱构建及应用方法研究_李忠阳](https://t.cnki.net/kcms/detail?v=sLRZPqxRYE3pHnscegK63uj1X-Ak4AimBdeP_sQplqNY172D9MXuhmfbybsKxfLKTUk3oB2bEU_16Ldfn1Or7zlQUDWyCcTKzPQoTeY3ZC3-PfN-WFhfpBSZ7MWX-ZguAr9UppBkGYI=&uniplatform=NZKPT) | [eecrazy/ConstructingNEEG_IJCAI_2018](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018) |        |
 
 ## 一些工具
@@ -124,4 +126,11 @@
 | CausalBank |  | |  |大规模英文因果数据集||
 | TimeBank |  | |  |仅仅标注了部分容易识别的关系子集||
 | TimeBank-Dense |  | |  |BEFORE , AFTER , INCLUDES , IS INCLUDED, SIMULTANEOUS , VAGUE||
+| GDELT事件库 |  | |  |利用超过100 种语言的全球新闻媒体数据, 自动发现并记录了自 1979 年 1 月 1 日以来的所有人类社会主要事件|[Site](https://www.gdeltproject.org/)|
+| LinkedData |  | |  |150年的新闻文章和200亿条关系的知识图谱||
+| VLEP |  | |  |一个视频与字幕结合的多模态事件预测数据集||
+| EventKG | | | ||[Data](https://oekg.l3s.uni-hannover.de/data)|
+| OEKG | | | ||[Data](https://oekg.l3s.uni-hannover.de/data)|
+|  | | | [事件抽取相关数据集整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/443260886) |||
+|  | | | [开放资源：面向事件时序因果关系识别的17类开源标注数据集总结 - 墨天轮 (modb.pro)](https://www.modb.pro/db/379577) |||
 
