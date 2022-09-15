@@ -19,9 +19,12 @@
 ### 事件时序关系抽取
 | 年份 | 来源 | 名称 | 源码 | 数据集 | 描述 |
 | :-----: | :-----:| :-----:| :-----: | :-----: | :-----: |
+| 2022 | Computational Intelligence and Neuroscience | [Temporal Relation Extraction with Joint Semantic and Syntactic Attention](https://www.hindawi.com/journals/cin/2022/5680971/) | | TimeBank-Dense & MATRES | |
 | 2021 | IJCNLP | [TIMERS: Document-level Temporal Relation Extraction](https://aclanthology.org/2021.acl-short.67.pdf) |  |  |
-| 2021 | [计算机研究与发展](https://crad.ict.ac.cn/) | [融合上下文信息的篇章级事件时序关系抽取方法](https://crad.ict.ac.cn/CN/abstract/abstract4529.shtml) |  |  |
+| 2021 | [计算机研究与发展](https://crad.ict.ac.cn/) | [融合上下文信息的篇章级事件时序关系抽取方法](https://crad.ict.ac.cn/CN/abstract/abstract4529.shtml) |  |TimeBank-Dense & MATRES  |
+| 2021 | NAACL |[EventPlus: A Temporal Event Understanding Pipeline](https://arxiv.org/abs/2101.04922) | [Code](https://arxiv.org/abs/2101.04922) | TimeBank-Dense, MATRES & ACE2005 | 事件抽取与事件时序关系抽取的流水线模型 |
 | 2019 | ACL | [Fine-Grained Temporal Relation Extraction](https://aclanthology.org/P19-1280.pdf) | [decomp](http://decomp.io/projects/time/) | [decomp](http://decomp.io/projects/time/) |
+| 2019 | CCF | [Event Temporal Relation Classification Based on Graph Convolutional Networks](https://link.springer.com/chapter/10.1007/978-3-030-32236-6_35) |  | TimeBank-Dense ||
 | 2018 |  | [TEMPROB: Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource-ReadPaper](https://readpaper.com/paper/2797731290) |  |  |  provides prior knowledge of the temporal order that some events usually follow.|
 
 ### 事件父子关系抽取
