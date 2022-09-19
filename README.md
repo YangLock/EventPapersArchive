@@ -130,7 +130,7 @@
 | ESTER | 2021 | | [ESTER: A Machine Reading Comprehension Dataset for Event Semantic Relation Reasoning](https://readpaper.com/paper/3153067519) |a comprehensive machine reading comprehension (MRC) dataset for Event Semantic Relation Reasoning. The dataset leverages natural language queries to reason about the five most common event semantic relations, provides more than 6K questions and captures 10.1K event relation pairs.||
 | CausalBank |  | |  |大规模英文因果数据集||
 | TimeBank |  | |  |仅仅标注了部分容易识别的关系子集||
-| TimeBank-Dense |  | |  |BEFORE , AFTER , INCLUDES , IS INCLUDED, SIMULTANEOUS , VAGUE||
+| TimeBank-Dense | 2014 |  | [An Annotation Framework for Dense Event Ordering](https://aclanthology.org/P14-2082/) |BEFORE , AFTER , INCLUDES , IS INCLUDED, SIMULTANEOUS , VAGUE||
 | GDELT事件库 |  | |  |利用超过100 种语言的全球新闻媒体数据, 自动发现并记录了自 1979 年 1 月 1 日以来的所有人类社会主要事件|[Site](https://www.gdeltproject.org/)|
 | LinkedData |  | |  |150年的新闻文章和200亿条关系的知识图谱||
 | VLEP |  | |  |一个视频与字幕结合的多模态事件预测数据集||
