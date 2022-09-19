@@ -26,6 +26,7 @@
 | 2019 | ACL | [Fine-Grained Temporal Relation Extraction](https://aclanthology.org/P19-1280.pdf) | [decomp](http://decomp.io/projects/time/) | [decomp](http://decomp.io/projects/time/) |
 | 2019 | CCF | [Event Temporal Relation Classification Based on Graph Convolutional Networks](https://link.springer.com/chapter/10.1007/978-3-030-32236-6_35) |  | TimeBank-Dense ||
 | 2019 | CONLL | [Deep Structured Neural Network for Event Temporal Relation Extraction](https://aclanthology.org/K19-1062/) | [Code](https://github.com/PlusLabNLP/Deep-Structured-EveEveTemp) | TCR, TimeBank-Dense & MATRES ||
+| 2019 | EMNLP-IJCNLP | [Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://aclanthology.org/D19-1041/) | [Code](https://github.com/PlusLabNLP/JointEventTempRel) | TB-Dense & MATRES ||
 | 2018 |  | [TEMPROB: Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource-ReadPaper](https://readpaper.com/paper/2797731290) |  |  |  provides prior knowledge of the temporal order that some events usually follow.|
 
 ### 事件父子关系抽取
