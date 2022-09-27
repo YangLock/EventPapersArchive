@@ -120,6 +120,8 @@
     + [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
 
 ## 数据集
+> 基本上所有事件时序关系的数据集在标注时都会遵循[TimeML](http://timeml.org/site/publications/timeMLdocs/timeml_1.2.1.html)规范。
+
 |数据集名称| 年份 | 来源 | 论文名称 | 描述 | 下载 |
 | :-----: | :-----: | :-----:| :-----:| :-----:| :-----:|
 | ConceptNet | 2017 | | [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://readpaper.com/paper/2561529111) |a large-scale commonsense knowledge graph for commonsense concepts, entities, events and relations||
