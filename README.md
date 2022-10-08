@@ -103,7 +103,7 @@
 |   2020    |        哈工大        | [面向金融领域的事理图谱构建关键技术研究](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1020400011.nh&uniplatform=OVERSEA&v=t3vgLCmLnsHff3yx2H7k3wqmMvALzLmpG1StrbVB5HTy-h9T3hKVRrU_3q67BlFd) |                                                              |        |
 | 2018-2021 |        IJCAI         | [SGNN 哈工大刘挺的博士 面向文本事件预测的事理图谱构建及应用方法研究_李忠阳](https://t.cnki.net/kcms/detail?v=sLRZPqxRYE3pHnscegK63uj1X-Ak4AimBdeP_sQplqNY172D9MXuhmfbybsKxfLKTUk3oB2bEU_16Ldfn1Or7zlQUDWyCcTKzPQoTeY3ZC3-PfN-WFhfpBSZ7MWX-ZguAr9UppBkGYI=&uniplatform=NZKPT) | [eecrazy/ConstructingNEEG_IJCAI_2018](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018) |        |
 
-## 一些工具
+## 论文查找及管理工具
 
 - [dblp: computer science bibliography](https://dblp.org/)
 - [arXiv.org e-Print archive](https://arxiv.org/)
@@ -111,13 +111,20 @@
 - [ReadPaper](https://readpaper.com/)
 - [zotero](https://www.zotero.org/)
 
-## GNN相关知识
+## GNN相关
 + B站课程：
     + [李沐的零基础多图详解图神经网络](https://www.bilibili.com/video/BV1iT4y1d7zP?spm_id_from=333.880.my_history.page.click&vd_source=137a8d9e49a8aecb804950139f2cd561)
     + [图卷积神经网络（GCN）的数学原理详解](https://www.bilibili.com/video/BV1Vw411R7Fj?p=1&vd_source=137a8d9e49a8aecb804950139f2cd561)
 + Distill上的两篇相关技术博客
     + [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)  P.S. 这篇博客就是李沐那个视频里讲的博客
     + [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
++ 工具框架
+  + [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/#)
+  + [Deep Graph Library](https://www.dgl.ai/)
+  + [jraph](https://github.com/deepmind/jraph)
+  + [Spektral](https://graphneural.network/)
++ 仓库
+  + [GNNs-Recipe](https://github.com/dair-ai/GNNs-Recipe): 这个仓库整理了很多关于GNN方面的论文、代码、入门知识、工具等。
 
 ## 数据集
 > 基本上所有事件时序关系的数据集在标注时都会遵循[TimeML](http://timeml.org/site/publications/timeMLdocs/timeml_1.2.1.html)规范。
@@ -138,6 +145,7 @@
 | VLEP |  | |  |一个视频与字幕结合的多模态事件预测数据集||
 | EventKG | | | ||[Data](https://oekg.l3s.uni-hannover.de/data)|
 | OEKG | | | ||[Data](https://oekg.l3s.uni-hannover.de/data)|
+| 中文突发事件语料库（CEC）||||中文突发事件语料库是由上海大学（语义智能实验室）所构建。根据国务院颁布的《国家突发公共事件总体应急预案》的分类体系，从互联网上收集了5类（地震、火灾、交通事故、恐怖袭击和食物中毒）突发事件的新闻报道作为生语料，然后再对生语料进行文本预处理、文本分析、事件标注以及一致性检查等处理，最后将标注结果保存到语料库中，CEC合计332篇。|[CEC-Corpus](https://github.com/shijiebei2009/CEC-Corpus)|
 |  | | | [事件抽取相关数据集整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/443260886) |||
 |  | | | [开放资源：面向事件时序因果关系识别的17类开源标注数据集总结 - 墨天轮 (modb.pro)](https://www.modb.pro/db/379577) |||
 
