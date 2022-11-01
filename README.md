@@ -3,7 +3,9 @@
 ## 项目落地
 | 年份 | 来源 | 名称 | 源码 | 数据集 | 描述 |
 | :-----: | :-----:| :-----:| :-----: | :-----: | ------- |
-| 2021 | FGCS |[Event prediction based on evolutionary event ontology knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20311778)|https://github.com/hummingg/KGEvetPred|https://github.com/whxf/EEOK|一个从事件**提取**到事件**预测**的**流水线**过程框架。考虑到不同的事件域，我们提供了一种领域感知的事件预测方法。|
+| 2021 | FGCS |[Event prediction based on evolutionary event ontology knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20311778)|https://github.com/hummingg/KGEvetPred|https://github.com/hummingg/EEOK|一个从事件**提取**到事件**预测**的**流水线**过程框架。考虑到不同的事件域，我们提供了一种领域感知的事件预测方法。|
+| :-----: | :-----:| :-----:| :-----: | :-----: | ------- |
+| 2022 | NAACL |[RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios](https://paperswithcode.com/paper/resin-11-schema-guided-event-prediction-for)|https://github.com/hummingg/KGEvetPred|https://github.com/hummingg/EEOK|<br>schema-guided event extraction&prediction framework.(1) an open-domain end-to-end multimedia multilingual information extraction system with weak-supervision and zero-shot learningbased techniques. (2) schema matching and schema-guided event prediction based on our curated schema library.**Dockerized**|
 
 # 事件抽取与事件关系抽取论文整理
 
