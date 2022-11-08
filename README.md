@@ -25,7 +25,10 @@
 ### 事件时序关系抽取
 | 年份 | 来源 | 名称 | 源码 | 数据集 | 描述 |
 | :-----: | :-----:| :-----:| :-----: | :-----: | :-----: |
+| 2022 | COLING | [RSGT: Relational Structure Guided Temporal Relation Extraction](https://aclanthology.org/2022.coling-1.174) ||TBD & MATRES|使用的是GGNN(Gated Graph Neural Network)|
+| 2022 | COLING | [DCT-Centered Temporal Relation Extraction](https://aclanthology.org/2022.coling-1.182) ||TBD & TDD-Man & TDD-Auto|使用的是GCN|
 | 2022 | Computational Intelligence and Neuroscience | [Temporal Relation Extraction with Joint Semantic and Syntactic Attention](https://www.hindawi.com/journals/cin/2022/5680971/) | | TimeBank-Dense & MATRES | |
+| 2021 | IJCAI | [Discourse-Level Event Temporal Ordering with Uncertainty-Guided Graph Completion](https://www.ijcai.org/proceedings/2021/533) | [Code](https://github.com/jianliu-ml/EventTemp) | TBD & TDD-Man & TDD-Auto | 第一个将图表示学习应用到篇章级事件时序关系抽取任务当中来的论文 |
 | 2021 | IJCNLP | [TIMERS: Document-level Temporal Relation Extraction](https://aclanthology.org/2021.acl-short.67.pdf) |  |  |
 | 2021 | [计算机研究与发展](https://crad.ict.ac.cn/) | [融合上下文信息的篇章级事件时序关系抽取方法](https://crad.ict.ac.cn/CN/abstract/abstract4529.shtml) |  |TimeBank-Dense & MATRES  |
 | 2021 | NAACL |[EventPlus: A Temporal Event Understanding Pipeline](https://arxiv.org/abs/2101.04922) | [Code](https://github.com/PlusLabNLP/EventPlus) | TimeBank-Dense, MATRES & ACE2005 | 事件抽取与事件时序关系抽取的流水线模型 |
