@@ -7,6 +7,10 @@
 | 2022 | NAACL |[RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios](https://paperswithcode.com/paper/resin-11-schema-guided-event-prediction-for)|[Code](https://github.com/RESIN-KAIROS/RESIN-11)|[LDC](https://catalog.ldc.upenn.edu/)|schema-guided event extraction&prediction framework.(1) an open-domain end-to-end multimedia multilingual information extraction system with weak-supervision and zero-shot learningbased techniques. (2) schema matching and schema-guided event prediction based on our curated schema library.**Dockerized**|
 
 # 事件抽取与事件关系抽取论文整理
+## ChatGPT与研究方向
+| 年份 | 来源 | 名称 | 源码 | 数据集 |
+| :-----: | :-----:| :-----:| :-----: | :-----: |
+| 2023 |  |[Zero-Shot Information Extraction via Chatting with ChatGPT](https://readpaper.com/pdf-annotate/note?pdfId=4725954968591269889)|||
 
 ## 事件关系抽取
 
