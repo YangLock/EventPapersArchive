@@ -12,6 +12,18 @@
 | :-----: | :-----:| :-----:| :-----: | :-----: |
 | 2023 |  |[Zero-Shot Information Extraction via Chatting with ChatGPT](https://readpaper.com/pdf-annotate/note?pdfId=4725954968591269889)|||
 
+## Prompt学习
+
+| 年份 | 来源 |                             名称                             |                      源码                      | 数据集 |
+| :--: | :--: | :----------------------------------------------------------: | :--------------------------------------------: | :----: |
+| 2021 | ACM  | [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://readpaper.com/paper/3185341429) |                                                |        |
+| 2021 |      | [GPT Understands, Too](https://readpaper.com/paper/3139080614) |   [Code](https://github.com/THUDM/P-tuning)    |        |
+|      |      | [PromptBERT: Improving BERT Sentence Embeddings with Prompts](https://readpaper.com/paper/625656177011560448) | [Code](https:// github.com/kongds/Prompt-BERT) |        |
+| 2022 |      | [Generating Disentangled Arguments with Prompts: A Simple Event Extraction Framework That Works](https://readpaper.com/paper/3205954317) |  [Code](https://github.com/RingBDStack/GDAP)   |        |
+|      |      | [Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://readpaper.com/paper/4595124901795340289) |  [Code](https://github. com/mayubo2333/PAIE)   |        |
+|      |      | [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://readpaper.com/paper/4551503280291717121) | [Code](https://github. com/THUDM/P-tuning-v2)  |        |
+|      |      | [五万字综述！Prompt Tuning：深度解读一种新的微调范式](https://redian.news/wxnews/341131) |                                                |        |
+
 ## 事件关系抽取
 
 ### 事件因果关系抽取
